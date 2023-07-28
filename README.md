@@ -1,1 +1,1 @@
-# Mean-Reversion-Moving-Average-Crossover-Trading-Algorithm
+# ReversionX MA Crossover
